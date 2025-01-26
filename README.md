@@ -1,6 +1,6 @@
 # Hi, I'm Camilo 👋
 
-I'm a Physics student at the Universidad Distrital, focusing on **Theoretical Physics** and **Computational Science**. I also have experience in **software development**, using tools like **Python**, **Matlab**, and **PHP**.
+I'm a Physics student at the Universidad Distrital, focusing on **Theoretical Physics** and **Computational Science**. I also have experience in **software development**, using tools like **Python**,**frontran**, **PHP**, **frontend** (html,css,js).
 
 ## 🚀 Projects I'm working on
 
@@ -15,7 +15,6 @@ I'm a Physics student at the Universidad Distrital, focusing on **Theoretical Ph
 ## 📫 How to reach me
 
 - Email: [cahuertasa@udistrital.edu.co](mailto:cahuertasa@udistrital.edu.co), [camilo.huertas124@gmail.com](mailto:camilo.huertas124@gmail.com)
-- LinkedIn: [Camilo Huertas](https://www.linkedin.com/in/camilo-huertas/)
 
 ---
 
